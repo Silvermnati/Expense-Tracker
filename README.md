@@ -4,7 +4,7 @@ A simple web application for tracking daily expenses using HTML, CSS, and JavaSc
 The project supports **dynamic expense logging, deletion, and total calculation**. 
 It can also use `json-server` for storing and retrieving expenses from a database.
 
----
+
 
 ##  Features
  Add expenses with category, amount, and date  
@@ -13,19 +13,19 @@ It can also use `json-server` for storing and retrieving expenses from a databas
  Display the total expense amount dynamically  
  Use  **json-server** for persistence  
 
----
 
-## 🛠 Technologies Used
+
+##  Technologies Used
 - **HTML** - Structure of the app  
 - **CSS** - Styling for a good displaying interface  
 - **JavaScript** - Handles  updates and event listeners  
 - **json-server** -Backend for storing expenses  
 
----
+
 
 ##  Project Structure
 
----
+
 
 ##  Getting Started
 
