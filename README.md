@@ -54,6 +54,10 @@ Click "Add Expense"
 
 View the expenses and delete expenses in the table if need be
 
+### 6 Slide show 
+You can view the google slides of the project by fiollowing the link below:
+https://docs.google.com/presentation/d/1OxZ_vSb1NSt1oL5FaQsp6_Li3jHFNYne4FqsTwMPkH4/edit?usp=sharing
+
 ### 6 Licence
 This project is licensed under the MIT License. See the LICENSE file for more details.
 MIT License
