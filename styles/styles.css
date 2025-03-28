@@ -38,6 +38,7 @@ button {
     padding: 8px;
     border-radius: 4px;
     transition: background 0.3s;
+    width: 100%;
 }
 
 button:hover {
@@ -81,4 +82,15 @@ tfoot {
 .delete-btn:hover {
     background-color: darkred;
 }
+
+#add-expense {
+    display: block;
+    visibility: visible;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
 
