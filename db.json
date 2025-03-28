@@ -1,3 +1,7 @@
 {
-  "expenses": []
+  "expenses": [
+    { "id": 1, "category": "Food", "amount": 50, "date": "2025-03-01" },
+    { "id": 2, "category": "Transport", "amount": 20, "date": "2025-03-02" },
+    { "id": 3, "category": "Utilities", "amount": 100, "date": "2025-03-05" }
+  ]
 }
